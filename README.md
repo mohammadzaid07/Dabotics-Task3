@@ -4,6 +4,8 @@
 
 Here is a simple QR Code generator.
 
-It can generate QR code of any text or link.
+It can generate a QR code of any text or link.
 
-QR Code can be generated into different sizes.
+QR Codes can be generated in different sizes.
+
+qrcode.js library is used to generate QR Codes.
